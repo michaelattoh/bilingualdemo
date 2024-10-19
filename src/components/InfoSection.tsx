@@ -3,7 +3,7 @@ import { useLanguage } from '../LanguageContext';
 
 const content = {
   en: {
-    title: 'Welcome to Our Informational Demo',
+    title: 'Welcome to Our Website Demo',
     intro: 'This demo showcases a multilingual website with content in English and Twi.',
     sections: [
       {
